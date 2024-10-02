@@ -33,3 +33,11 @@ Mystical Morpher will create intermediary frames to reach the total
 number of frames specified.
 
 See ```source.txt``` for an example of a source.txt.
+
+## Resource
+
+To make sure your first and last frames use the same format, it might
+be necessary to convert their paths to all absolute or all relative
+commands. The program below does that.
+
+https://lea.verou.me/blog/2019/05/utility-convert-svg-path-to-all-relative-or-all-absolute-commands/
