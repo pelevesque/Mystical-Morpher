@@ -16,7 +16,7 @@ sub MAIN(
     @frames[0]     = @[@parts[0] ~~ m:g/ $number-regex /]».Num;
     my @last-frame = @[@parts[1] ~~ m:g/ $number-regex /]».Num;
     if @frames[0].elems != @last-frame.elems {
-        die 'Error: Start and end paths must have the same amount of numbers.';
+        die 'Error: Start and end frames must have the same amount of numbers.';
     }
 
         # Create and add interpolated frames.
