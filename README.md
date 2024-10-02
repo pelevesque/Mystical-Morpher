@@ -29,7 +29,7 @@ A template can be anything, so long as it contains numbers, and that
 the templates for the first and last frame contain the same amount
 of numbers.
 
-Mystic Morpher will create intermediary frames to reach the total
+Mystical Morpher will create intermediary frames to reach the total
 number of frames specified.
 
 See ```source.txt``` for an example of a source.txt.
