@@ -41,3 +41,7 @@ be necessary to convert their paths to all absolute or all relative
 commands. The program below does that.
 
 https://lea.verou.me/blog/2019/05/utility-convert-svg-path-to-all-relative-or-all-absolute-commands/
+
+## License
+MIT\
+copyright 2024 Pierre-Emmanuel Lévesque
